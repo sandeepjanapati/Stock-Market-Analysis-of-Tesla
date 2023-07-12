@@ -35,12 +35,12 @@
 
 ### Tableau Dashboard - Revenue v/s stock trends
 	
-<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Screenshot%202023-07-12%20173330.png" /></a></p>
 
 ### Tableau Dashboard - Instututional Holders
 	
-<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Screenshot%202023-07-12%20173237.png" /></a></p>
 
 ### Tableau Dashboard - Mutual Fund Holders
 	
-<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Screenshot%202023-07-12%20173305.png" /></a></p>
