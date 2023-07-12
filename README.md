@@ -29,7 +29,18 @@
 [Python Code Link](https://drive.google.com/file/d/18ClYEyny9IrUX1IgCI2NvSqWiGOoNLtZ/view?usp=sharing)
 
 ## Data Analysis Using Tableau
-### Tableau Dashboard - Stock Market Trends
+### Tableau Dashboard - Stock Market Analysis
 	
-<p  align="center"><img width="100%" src="link" /></a></p>
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
 
+### Tableau Dashboard - Revenue v/s stock trends
+	
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
+
+### Tableau Dashboard - Instututional Holders
+	
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
+
+### Tableau Dashboard - Mutual Fund Holders
+	
+<p  align="center"><img width="100%" src="https://github.com/sandeepjanapati/Stock-Market-Analysis-of-Tesla/blob/main/Dashboard%201.png" /></a></p>
